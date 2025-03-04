@@ -21,6 +21,9 @@
             "BobdenOtter\\ConfigurationNotices\\": "src/"
         }
     },
+    "replace": {
+        "bobdenotter/configuration-notices": "*"
+    },
     "minimum-stability": "beta",
     "prefer-stable": true,
     "extra": {
